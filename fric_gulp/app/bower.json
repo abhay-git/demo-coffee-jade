@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "description": "Demo Description",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "abhi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.2",
+    "angular": "~1.5.3"
+  }
+}
